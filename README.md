@@ -19,5 +19,7 @@ Nesse projeto fui capaz de:
 ---
 Projeto realizado durante o curso da Trybe no módulo de front-end.
 
-
 ---
+## Como utilizar o projeto:
+
+git clone 
