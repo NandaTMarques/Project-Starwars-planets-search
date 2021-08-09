@@ -20,6 +20,11 @@ Nesse projeto fui capaz de:
 Projeto realizado durante o curso da Trybe no módulo de front-end.
 
 ---
+
 ## Como utilizar o projeto:
 
-git clone 
+git clone https://github.com/NandaTMarques/Project-Starwars-planets-search.git;
+Entre na pasta;
+No terminal digite nem install.
+
+---
