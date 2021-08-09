@@ -29,3 +29,10 @@ Projeto realizado durante o curso da Trybe no módulo de front-end.
 * npm start.
 
 ---
+
+## Como utilizar o projeto:
+
+* git clone https://github.com/NandaTMarques/Project-Starwars-planets-search.git;
+* Entre na pasta;
+* No terminal digite nem install;
+* npm start.
